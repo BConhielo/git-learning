@@ -8,3 +8,10 @@
 >git branch --show-current
 
 ![git命令运行结果展示](image.png)
+
+4. 撤销错误提交
+>git revert 提交编号
+
+5. 临时保存
+>git stash
+>git stash pop
